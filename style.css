@@ -185,8 +185,8 @@ img {
     width: 280px;
   }
 }
-
-@media (min-width: 450px) {
+/*
+@media (max-width: 1024px) {
   body {
     background: linear-gradient(0deg, var(--soft-blue), var(--soft-violet))
       no-repeat;
@@ -242,4 +242,4 @@ img {
   .panel {
     width: 480px;
   }
-}
+} */
