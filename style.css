@@ -135,7 +135,7 @@ img {
 }
 
 /* Mobile styling */
-@media (max-width: 450px) {
+@media (max-width: 376px) {
   .card {
     width: 330px;
     display: flex;
