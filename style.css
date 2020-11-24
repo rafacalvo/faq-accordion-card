@@ -185,7 +185,13 @@ img {
     width: 280px;
   }
 }
+<<<<<<< HEAD
 /*
+=======
+
+
+
+>>>>>>> 85602f05bc8a77a8ca66c9b806f5cc0eca74f045
 @media (max-width: 1024px) {
   body {
     background: linear-gradient(0deg, var(--soft-blue), var(--soft-violet))
